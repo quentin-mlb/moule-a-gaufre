@@ -1,0 +1,46 @@
+@page {
+    size: A5;
+    margin: 0;
+}
+
+h1 {
+    font-size: 21pt;
+    margin: 0;
+    padding-bottom : 3mm ;
+}
+h2 {
+    margin:0
+}
+
+ul {
+    padding-left: 3mm;
+}
+
+li {
+    font-size: 11pt;
+    padding-bottom: 3mm;
+}
+
+
+.part_title {
+    padding-bottom: 3mm;
+    background-color: red;
+}
+.content_container{
+    flex: auto;
+    flex-direction: row;
+    display: flex;
+}
+.ingredients {
+    flex: 1;
+}
+.instructions {
+    flex: 2;
+}
+.page{
+    height: 210mm;
+    width: 148mm;
+    box-sizing: border-box;
+    margin: 0 auto; /* center horizontally */
+    padding: 10mm;
+}

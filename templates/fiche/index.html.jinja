@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ recipe.name }}</title>
+    <link href="./index.css" rel="stylesheet">
+</head>
+<body>
+    <div class="h-screen bg-gray-200">
+    <div class="m-auto h-full aspect-[0.707] p-5 bg-white overflow-hidden border-2">
+    <div>
+        <h1 class="font-serif text-3xl font-bold ">{{ recipe.name }}</h1>
+    </div>
+    <div class="flex flex-row">
+        <div class="p-5 mr-3">
+            <ul class="list-disc">
+                {% for ingredient in recipe.recipeIngredient %}
+                <li>{{ ingredient }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <div class="p-5">
+            <ol class="list-decimal">
+                {% for section in recipe.recipeInstructions %}
+                {% for instruction in section.itemListElement %}
+                <li>{{ instruction.text }}</li>
+                {% endfor %}
+                {% endfor %}
+            </ol>
+        </div>
+    </div>
+</div>
+</div>
+</body>
+</html>

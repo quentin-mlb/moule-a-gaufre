@@ -1,0 +1,177 @@
+
+{
+  "@type": "Recipe",
+  "name": "Tarte fine aux pommes croustillante et caramélisée",
+  "author": {
+    "@id": "https://jepensedoncjecuis.com/#/schema/person/a1023fe6a645d1ffa34d0f1c3067cd2f"
+  },
+  "description": "Pour la pâte feuilletée rapide, retenez la formule 100 / 80 / 40 : pour 100g de farine, utilisez 80g de beurre et 40g d&#39;eau.Référez vous au tableau dans l&#39;article pour adapter les quantités à la taille du moule.",
+  "datePublished": "2025-10-31T16:24:26+00:00",
+  "image": [
+    "https://jepensedoncjecuis.com/wp-content/uploads/2025/10/photo-article-3-e1762427903417.jpg",
+    "https://jepensedoncjecuis.com/wp-content/uploads/2025/10/photo-article-3-500x477.jpg",
+    "https://jepensedoncjecuis.com/wp-content/uploads/2025/10/photo-article-3-500x375.jpg",
+    "https://jepensedoncjecuis.com/wp-content/uploads/2025/10/photo-article-3-480x270.jpg"
+  ],
+  "recipeYield": [
+    "4",
+    "4 personnes"
+  ],
+  "prepTime": "PT15M",
+  "cookTime": "PT45M",
+  "totalTime": "PT60M",
+  "recipeIngredient": [
+    "100 g de farine (plus pour l&#39;étalement de la pâte)",
+    "80 g de beurre (bien froid)",
+    "40 g d&#39;eau (bien froide)",
+    "1/4 c. à café de sel (correspond à une pincée)",
+    "20 g de beurre (pour badigeonner la plaque de cuisson et les pommes.)",
+    "3 grosses pommes (ou 4 petites) (Canada,Granny Smith, Pink Lady, Braeburn.)",
+    "sucre en poudre (pour saupoudrer sur la plaque de cuisson et les pommes.)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToSection",
+      "name": "Préparation de la pâte feuilletée rapide",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Versez la pincée de sel dans 40g d&#39;eau très froide et remuez pour dissoudre le sel.",
+          "name": "Versez la pincée de sel dans 40g d&#39;eau très froide et remuez pour dissoudre le sel.",
+          "url": "https://jepensedoncjecuis.com/2025/10/mes-conseils-pour-une-tarte-fine-aux-pommes-rapide-et-super-croustillante.html#wprm-recipe-9358-step-0-0"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Versez les 100g de farine dans un grand saladier. Coupez le beurre en gros morceaux et versez-les sur la farine. Aplatissez les morceaux de beurre entre vos doigts.",
+          "name": "Versez les 100g de farine dans un grand saladier. Coupez le beurre en gros morceaux et versez-les sur la farine. Aplatissez les morceaux de beurre entre vos doigts.",
+          "url": "https://jepensedoncjecuis.com/2025/10/mes-conseils-pour-une-tarte-fine-aux-pommes-rapide-et-super-croustillante.html#wprm-recipe-9358-step-0-1"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Versez l&#39;eau salée et amalgamez grossièrement.",
+          "name": "Versez l&#39;eau salée et amalgamez grossièrement.",
+          "url": "https://jepensedoncjecuis.com/2025/10/mes-conseils-pour-une-tarte-fine-aux-pommes-rapide-et-super-croustillante.html#wprm-recipe-9358-step-0-2"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Farinez votre plan de travail (ou une feuille de papier cuisson) et déposez-y la boule de pâte. Formez un rectangle.",
+          "name": "Farinez votre plan de travail (ou une feuille de papier cuisson) et déposez-y la boule de pâte. Formez un rectangle.",
+          "url": "https://jepensedoncjecuis.com/2025/10/mes-conseils-pour-une-tarte-fine-aux-pommes-rapide-et-super-croustillante.html#wprm-recipe-9358-step-0-3"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Farinez légèrement de dessus de la pâte et étalez au rouleau en forme de rectangle 2 fois plus haut que large. Repliez le tiers inférieur vers l&#39;intérieur, puis le tiers supérieur par dessus. Vous venez de réaliser le premier tour simple.",
+          "name": "Farinez légèrement de dessus de la pâte et étalez au rouleau en forme de rectangle 2 fois plus haut que large. Repliez le tiers inférieur vers l&#39;intérieur, puis le tiers supérieur par dessus. Vous venez de réaliser le premier tour simple.",
+          "url": "https://jepensedoncjecuis.com/2025/10/mes-conseils-pour-une-tarte-fine-aux-pommes-rapide-et-super-croustillante.html#wprm-recipe-9358-step-0-4"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Tournez la pâte d&#39;1/4 de tour avec les plis à droite (comme un livre). Recommencez l&#39;opération 4 fois pour réaliser un total de 5 tours simples. La pâte va devenir de plus en plus souple. Si vous sentez que le beurre commence à fondre, mettez la pâte quelques minutes au congélateur pour que le beurre durcisse.",
+          "name": "Tournez la pâte d&#39;1/4 de tour avec les plis à droite (comme un livre). Recommencez l&#39;opération 4 fois pour réaliser un total de 5 tours simples. La pâte va devenir de plus en plus souple. Si vous sentez que le beurre commence à fondre, mettez la pâte quelques minutes au congélateur pour que le beurre durcisse.",
+          "url": "https://jepensedoncjecuis.com/2025/10/mes-conseils-pour-une-tarte-fine-aux-pommes-rapide-et-super-croustillante.html#wprm-recipe-9358-step-0-5"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Pour finir, étalez la pâte pas trop finement (3 mm d&#39;épaisseur) pour former un cercle de 24 cm de diamètre et réservez au frais.",
+          "name": "Pour finir, étalez la pâte pas trop finement (3 mm d&#39;épaisseur) pour former un cercle de 24 cm de diamètre et réservez au frais.",
+          "url": "https://jepensedoncjecuis.com/2025/10/mes-conseils-pour-une-tarte-fine-aux-pommes-rapide-et-super-croustillante.html#wprm-recipe-9358-step-0-6"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Faites fondre les 20g à feu doux dans une casserole ou au micro-ondes.",
+          "name": "Faites fondre les 20g à feu doux dans une casserole ou au micro-ondes.",
+          "url": "https://jepensedoncjecuis.com/2025/10/mes-conseils-pour-une-tarte-fine-aux-pommes-rapide-et-super-croustillante.html#wprm-recipe-9358-step-0-7"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Chemisez un grand moule à tarte ou une plaque à pâtisserie avec du papier cuisson. Badigeonnez de la moitié du beurre fondu à la dimension de la pâte (24 cm de diamètre). Saupoudrez généreusement de sucre en poudre pour recouvrir toute la surface.Si vous n&#39;avez pas de pinceau, vous pouvez étaler le beurre avec vos doigts.",
+          "name": "Chemisez un grand moule à tarte ou une plaque à pâtisserie avec du papier cuisson. Badigeonnez de la moitié du beurre fondu à la dimension de la pâte (24 cm de diamètre). Saupoudrez généreusement de sucre en poudre pour recouvrir toute la surface.Si vous n&#39;avez pas de pinceau, vous pouvez étaler le beurre avec vos doigts.",
+          "url": "https://jepensedoncjecuis.com/2025/10/mes-conseils-pour-une-tarte-fine-aux-pommes-rapide-et-super-croustillante.html#wprm-recipe-9358-step-0-8"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Déposez la pâte sur le papier beurré et sucré. Piquez-la avec une fourchette et réservez au frais pendant que vous préparez les pommes.",
+          "name": "Déposez la pâte sur le papier beurré et sucré. Piquez-la avec une fourchette et réservez au frais pendant que vous préparez les pommes.",
+          "url": "https://jepensedoncjecuis.com/2025/10/mes-conseils-pour-une-tarte-fine-aux-pommes-rapide-et-super-croustillante.html#wprm-recipe-9358-step-0-9"
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Préparation des pommes",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Préchauffez le four à 170°C chaleur tournante (190°C chaleur statique) avec la grille sur le gradin du bas.",
+          "name": "Préchauffez le four à 170°C chaleur tournante (190°C chaleur statique) avec la grille sur le gradin du bas.",
+          "url": "https://jepensedoncjecuis.com/2025/10/mes-conseils-pour-une-tarte-fine-aux-pommes-rapide-et-super-croustillante.html#wprm-recipe-9358-step-1-0"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Si vous avez un vide pomme, enlevez le trognon et pelez les pommes. Coupez-les en 2 dans le sens du trognon (hauteur). Si vous n&#39;avez pas de vide-pomme, enlevez les partie dures au couteau après avoir pelé et coupé les pommes.",
+          "name": "Si vous avez un vide pomme, enlevez le trognon et pelez les pommes. Coupez-les en 2 dans le sens du trognon (hauteur). Si vous n&#39;avez pas de vide-pomme, enlevez les partie dures au couteau après avoir pelé et coupé les pommes.",
+          "url": "https://jepensedoncjecuis.com/2025/10/mes-conseils-pour-une-tarte-fine-aux-pommes-rapide-et-super-croustillante.html#wprm-recipe-9358-step-1-1"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Posez la partie coupée des pommes sur votre planche et découpez-la en tranches fines dans le sens du trognon.",
+          "name": "Posez la partie coupée des pommes sur votre planche et découpez-la en tranches fines dans le sens du trognon.",
+          "url": "https://jepensedoncjecuis.com/2025/10/mes-conseils-pour-une-tarte-fine-aux-pommes-rapide-et-super-croustillante.html#wprm-recipe-9358-step-1-2",
+          "image": "https://jepensedoncjecuis.com/wp-content/uploads/2025/10/decoupe-pommes.jpg"
+        }
+      ]
+    },
+    {
+      "@type": "HowToSection",
+      "name": "Finition et cuisson",
+      "itemListElement": [
+        {
+          "@type": "HowToStep",
+          "text": "Sortez la pâte du réfrigérateur. Disposez régulièrement les tranches de pomme à l&#39;extérieur de la pâte pour former une jolie couronne, en laissant 5 mm apparent à chaque fois.",
+          "name": "Sortez la pâte du réfrigérateur. Disposez régulièrement les tranches de pomme à l&#39;extérieur de la pâte pour former une jolie couronne, en laissant 5 mm apparent à chaque fois.",
+          "url": "https://jepensedoncjecuis.com/2025/10/mes-conseils-pour-une-tarte-fine-aux-pommes-rapide-et-super-croustillante.html#wprm-recipe-9358-step-2-0",
+          "image": "https://jepensedoncjecuis.com/wp-content/uploads/2025/10/rosace-pommes.jpg"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Quand la couronne extérieure est réalisée, mettez tous les petits bouts au centre et formez une nouvelle couronne au centre en chevauchant de 1 cm sur la couronne extérieure.",
+          "name": "Quand la couronne extérieure est réalisée, mettez tous les petits bouts au centre et formez une nouvelle couronne au centre en chevauchant de 1 cm sur la couronne extérieure.",
+          "url": "https://jepensedoncjecuis.com/2025/10/mes-conseils-pour-une-tarte-fine-aux-pommes-rapide-et-super-croustillante.html#wprm-recipe-9358-step-2-1"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Badigeonnez toute la surface des pommes de beurre fondu. Saupoudrez généreusement toute la surface de sucre en poudre.",
+          "name": "Badigeonnez toute la surface des pommes de beurre fondu. Saupoudrez généreusement toute la surface de sucre en poudre.",
+          "url": "https://jepensedoncjecuis.com/2025/10/mes-conseils-pour-une-tarte-fine-aux-pommes-rapide-et-super-croustillante.html#wprm-recipe-9358-step-2-2"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Enfournez pour 45 mn. Au bout de 30 mn, vous pouvez appuyer sur la surface avec un moule à tarte pour aplatir les pommes et former une surface bien lisse et régulière.",
+          "name": "Enfournez pour 45 mn. Au bout de 30 mn, vous pouvez appuyer sur la surface avec un moule à tarte pour aplatir les pommes et former une surface bien lisse et régulière.",
+          "url": "https://jepensedoncjecuis.com/2025/10/mes-conseils-pour-une-tarte-fine-aux-pommes-rapide-et-super-croustillante.html#wprm-recipe-9358-step-2-3"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "A la fin de la cuisson, vérifier la cuisson du dessous de la pâte en soulevant avec une spatule. Il doit être coloré et caramélisé. Prolongez la cuisson si nécessaire, en recouvrant éventuellement les pommes de papier d&#39;aluminium si elles sont déjà très colorées.",
+          "name": "A la fin de la cuisson, vérifier la cuisson du dessous de la pâte en soulevant avec une spatule. Il doit être coloré et caramélisé. Prolongez la cuisson si nécessaire, en recouvrant éventuellement les pommes de papier d&#39;aluminium si elles sont déjà très colorées.",
+          "url": "https://jepensedoncjecuis.com/2025/10/mes-conseils-pour-une-tarte-fine-aux-pommes-rapide-et-super-croustillante.html#wprm-recipe-9358-step-2-4"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Sortez la tarte du four. Laissez-la refroidir sur une grille en enlevant le papier cuisson.",
+          "name": "Sortez la tarte du four. Laissez-la refroidir sur une grille en enlevant le papier cuisson.",
+          "url": "https://jepensedoncjecuis.com/2025/10/mes-conseils-pour-une-tarte-fine-aux-pommes-rapide-et-super-croustillante.html#wprm-recipe-9358-step-2-5"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Vous pouvez la servir froide, ou tiède accompagnée de crème fraiche épaisse ou d&#39;une boule de glace à la vanille.",
+          "name": "Vous pouvez la servir froide, ou tiède accompagnée de crème fraiche épaisse ou d&#39;une boule de glace à la vanille.",
+          "url": "https://jepensedoncjecuis.com/2025/10/mes-conseils-pour-une-tarte-fine-aux-pommes-rapide-et-super-croustillante.html#wprm-recipe-9358-step-2-6"
+        }
+      ]
+    }
+  ],
+  "recipeCategory": [
+    "Dessert"
+  ]
+}
