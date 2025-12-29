@@ -10,7 +10,7 @@ import shutil
 working_dir = './tmp/'
 input_dir = './examples/'
 
-templates_dir = "./templates/fiche/"
+templates_dir = "./src/templates/fiche/"
 template_name = "index.html.jinja"
 
 # ensure working_dir exists and is empty

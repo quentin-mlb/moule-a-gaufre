@@ -1,3 +1,5 @@
 .venv/
 examples/
 tmp/
+config/
+__pycache__/
