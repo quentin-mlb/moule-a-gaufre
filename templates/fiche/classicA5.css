@@ -1,46 +1,69 @@
+@font-face {
+  font-family: "Sentient";
+  src:
+    url(file:///home/quentin/projets/moule-a-gaufre/src/fonts/Sentient-Regular.otf) format("opentype");
+}
+@font-face {
+  font-family: "Playfair";
+  src:
+    url(file:///home/quentin/projets/moule-a-gaufre/src/fonts/Playfair-VariableFont_opsz,wdth,wght.ttf) format("truetype");
+}
+@font-face {
+  font-family: "PlayfairItalic";
+  src:
+    url(file:///home/quentin/projets/moule-a-gaufre/src/fonts/Playfair-Italic-VariableFont_opsz,wdth,wght.ttf) format("truetype");
+}
+
 @page {
     size: A5;
-    margin: 0;
+    margin: 8mm;
+}
+
+body{
+    font-family: Sentient,Georgia, 'Times New Roman', Times, serif;
 }
 
 h1 {
-    font-size: 21pt;
+    font-family: PlayfairItalic,Georgia;
+    font-weight: bold;
+    font-size: 20pt;
     margin: 0;
     padding-bottom : 3mm ;
 }
+
 h2 {
+    font-family: Playfair;
+    font-weight: 700;
+    font-size: 14pt;
     margin:0
 }
 
 ul {
     padding-left: 3mm;
+    font-size: 9pt;
+}
+
+ol{
+    padding-left: 0;
 }
 
 li {
-    font-size: 11pt;
     padding-bottom: 3mm;
+    list-style-position: inside;
 }
-
 
 .part_title {
     padding-bottom: 3mm;
     background-color: red;
 }
-.content_container{
-    flex: auto;
-    flex-direction: row;
-    display: flex;
+
+.instructions{
+    font-size: 10pt;
 }
+
 .ingredients {
-    flex: 1;
+    float: left;
+    width: 40mm;
+    margin-right: 7mm;
 }
-.instructions {
-    flex: 2;
-}
-.page{
-    height: 210mm;
-    width: 148mm;
-    box-sizing: border-box;
-    margin: 0 auto; /* center horizontally */
-    padding: 10mm;
-}
+
